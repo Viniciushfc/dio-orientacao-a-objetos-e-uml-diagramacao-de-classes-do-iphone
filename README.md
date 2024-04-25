@@ -1,6 +1,6 @@
 #DIO-DESAFIO
 
-Repositorio para afins didatico pela bolsa oferecida pela Santander BootCamp.
+Repositorio para afins de reforçar conhecimentos java oferecido pela bolsa Santander BootCamp.
 
 ## POO - Desafio
 
